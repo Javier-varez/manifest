@@ -25,5 +25,7 @@
   <project name="Javier-varez/cortex-m_startup" path="cortex-m_startup" groups="postform,popcorn,rp2040_app" />
   <project name="Javier-varez/cortex-m_hal" path="cortex-m_hal" groups="postform,popcorn" />
 
-</manifest>
+  <!-- Support projects -->
+  <project name="Javier-varez/ditto" path="ditto" groups="postform,popcorn,rp2040_app" />
 
+</manifest>
